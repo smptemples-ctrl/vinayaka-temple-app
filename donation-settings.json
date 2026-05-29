@@ -1,0 +1,19 @@
+{
+  "upi": {
+    "provider": "PhonePe / GooglePay",
+    "number": "9876543210",
+    "upiId": "smptemples@ybl",
+    "name": "Sri Varasiddhi Vinayaka Swamy Temple"
+  },
+  "bankTransfer": {
+    "bankName": "State Bank of India (SBI)",
+    "accountNumber": "12345678901",
+    "ifscCode": "SBIN0001234",
+    "branchName": "Main Branch",
+    "accountName": "SMP Temple Committee"
+  },
+  "cashInHand": {
+    "instructions": "ఆలయ కార్యాలయంలో నేరుగా సంప్రదించి రశీదు (Receipt) తీసుకోగలరు.",
+    "contactNumber": "0863-123456"
+  }
+}
